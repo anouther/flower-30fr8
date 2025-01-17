@@ -21,7 +21,7 @@
           } else {
             // Setelah teks utama selesai, tambahkan subtitle kecil
             const subtitle = document.createElement('p');
-            subtitle.innerText = "Happy mensive buat yang kedua kali, sayang. I have a lil reminder for you, jae. I love you soo much, so that means im not just here for the pretty parts and happy days, im here for the rough times and bad days too. I’ll be always here, no matter what.";
+            subtitle.innerText = "happy 4th mensiversary sayang everyone in this world should know how proud i'm to be yours, and i’ll never get bored of saying it. i’m so happy to have you in my life, and i’m glad to be one of the reasons you smile and laugh, terus disini sama aku ya. aku sayang banget sama kamu jelek, i love you more than anything.";
             subtitle.style.fontSize = '20px'; // Ukuran font lebih kecil
             subtitle.style.marginTop = '2px'; // Spasi antara teks utama dan subtitle
             subtitle.style.color = '#fff'; // Warna abu-abu untuk teks subtitle
